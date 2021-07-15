@@ -74,7 +74,7 @@ Also, if the candidate file contains a portable plot, it will be skipped and onl
 # 投げ銭 how to support
 XCH:xch124zmvg9g59sauqhmvdryd58skhgsmrud5npn76xe3tgt6ujegdsspk9msh
 
-# 問い合わせ
+# 問い合わせ how to contact me
 何かありましたらTwitter:@micomico_tisakiかブログにコメントください。もしくはgithubにIssueとして投稿をいただければ対応します。
 If you have any questions, please comment on Twitter:@micomico_tisaki or on my blog, or post an issue on github and I will respond.
 https://mininglog.hatenablog.jp/
