@@ -8,8 +8,8 @@ import os
 import math
 import glob
 
-new_puzzle_key = 'xch1gcugp6ucqks2hzfeqfkz74tsx3r6ece9lh42hxyj742nqjwm79rqs23qxr'
-new_farmer_key = '93e9f654ff3515aaa7d9a350d581acb8c454914b5422ac5486217dcacb3fcbd9a009eecb5d0ff91e30b43baa755b975e'
+new_puzzle_key = 'aaa'
+new_farmer_key = 'bbb'
 
 
 
