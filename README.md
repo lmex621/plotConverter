@@ -72,7 +72,7 @@ When the conversion is finished, all OG plots will be deleted and the converted 
 Also, if the candidate file contains a portable plot, it will be skipped and only the OG plot will be converted.
 
 # 投げ銭 how to support
-XCH:xch124zmvg9g59sauqhmvdryd58skhgsmrud5npn76xe3tgt6ujegdsspk9msh
+XCH:xch1zzjdj9m984vv67cmjuntxd53hz2d884fsk964d50xc0svzjaavusqh5phm
 
 # 問い合わせ how to contact me
 何かありましたらTwitter:@micomico_tisakiかブログにコメントください。もしくはgithubにIssueとして投稿をいただければ対応します。
