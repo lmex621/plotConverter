@@ -18,6 +18,7 @@ Install python 3.8 or later from the official website, including the path to pyt
 
 その後、以下のサイトからVisual c++ランタイムをダウンロード、インストールをします。
 After that, download and install the Visual c++ Runtime from the following site.
+
 https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
 
 そしたら、cmdにて以下のコードを走らせます。
